@@ -17,3 +17,5 @@ Subscription management — staff can manage customer accounts and CherryNova pr
 activity feed; real-time log of scan completions, threat detections, and remediation events across the board.
 
 Built on a React/Vite frontend backed by an Express 5 API and PostgreSQL, with Replit OIDC authentication for staff access.
+
+https://kitpurge.replit.app
